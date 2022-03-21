@@ -5,8 +5,6 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fortunatti-650756162/)
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelfernandes98&count_private=true&theme=onedark)
-
-
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandes98&theme=onedark)
 
 ## Tecnologias que uso no meu dia

@@ -15,11 +15,10 @@
     <img alt="HTML5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img alt="HTML5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img alt="HTML5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </div><br/>
 
 ## sobre mim...
 
 - Cursando Analise e Desenvolvimento de Sistemas.
 - Vivendo em Santa Catarina, Brasil.
-- Trabalho atualmente na [gdplace](https://www.gdplace.com.br/)
+- Trabalho atualmente na [Facil123](https://facil123.com.br/)

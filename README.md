@@ -8,7 +8,7 @@
 
 ![Rafael GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelfernandes98&theme=dracula)
 
-![Test](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelfernandes98&theme=dracula)
+![Rafael GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelfernandes98&theme=dracula)
 
 ## Tecnologias que uso no meu dia
 

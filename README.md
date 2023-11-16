@@ -4,12 +4,6 @@
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafah_vidalizando/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-fortunatti-650756162/)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelfernandes98&theme=dracula)
-
-![Rafael GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelfernandes98&theme=dracula)
-
-![Rafael GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafaelfernandes98&theme=dracula)
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>

@@ -20,6 +20,6 @@
 
 ## Sobre mim...
 
-- Cursando Analise e Desenvolvimento de Sistemas.
+- Formado em Analise e Desenvolvimento de Sistemas.
 - Vivendo em Santa Catarina, Brasil.
 - Trabalho atualmente na [Facil123](https://facil123.com.br/)

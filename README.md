@@ -18,7 +18,7 @@
     <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div><br/>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rafaelfernandes98&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@rafaelfernandes98&layout=compact&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre mim...
 

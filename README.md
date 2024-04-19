@@ -18,6 +18,9 @@
     <img alt="yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
 </div><br/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Sobre mim...
 
 - Formado em Analise e Desenvolvimento de Sistemas.
